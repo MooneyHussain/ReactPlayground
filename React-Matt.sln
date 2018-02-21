@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6B6CAD7C-26CC-41AC-8B40-22F2AFA8B4CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{5B94E610-6960-40D9-B240-80A37F1A7CDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React-Matt.WebApp", "React-Matt.WebApp\React-Matt.WebApp.csproj", "{DB6B92E5-37CC-4EE9-87CB-C34DBECD6014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6B92E5-37CC-4EE9-87CB-C34DBECD6014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6B92E5-37CC-4EE9-87CB-C34DBECD6014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6B92E5-37CC-4EE9-87CB-C34DBECD6014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6B92E5-37CC-4EE9-87CB-C34DBECD6014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB6B92E5-37CC-4EE9-87CB-C34DBECD6014} = {6B6CAD7C-26CC-41AC-8B40-22F2AFA8B4CD}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89817173-218E-40A7-A21B-293D87BAC099}
+	EndGlobalSection
+EndGlobal
